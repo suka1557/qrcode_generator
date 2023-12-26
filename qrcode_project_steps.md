@@ -18,6 +18,8 @@ This will save about 50% of waiters effort, thus reducing workforce requirement 
 With this goal in mind,  
 let's start working on our Python QR Code Generator
 
+You can view all the code directly from Github: [QRCODE_GENERATOR](https://github.com/suka1557/qrcode_generator/)
+
 # Step 1: Create Virutal Environment
 To create a virtual environment using the built-in <strong>venv</strong> module, which is available in Python 3.3 and later versions
 
